@@ -103,9 +103,3 @@ WHERE Salary > 50000;
 * Build a platform called "Employee Managemnet System"
 * Integrate with a web-based with dashboard (Power BI / React)
 
----
-
-## Author
-
-Aman Sharma
----
