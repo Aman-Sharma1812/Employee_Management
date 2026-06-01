@@ -1,4 +1,4 @@
-# Employee_Management
+# Employee-Data_Analysis-MySQL
 
 ## Project Overview
 
