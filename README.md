@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a simple **Employee Management System** built using **MySQL**.
+This project is a simple **Employee Management Analysis** built using **MySQL**.
 It demonstrates database design, data storage, and query operations for managing employee records.
 
 The project includes:
